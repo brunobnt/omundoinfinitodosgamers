@@ -1,0 +1,338 @@
+[
+	{
+		"name": "Gamer de Coração",
+		"color": "#03FF59",
+		"image": "/avatars/0.png",
+		"description": "Nasci e cresci gamer, gamer sempre serei",
+		"stars": {
+			"days": 1,
+			"hours": 4,
+			"gamer": 5,
+			"platform": 4,
+			"mobile": 3
+		},
+		"percentage": "16%",
+		"gameCategories": {
+			"acao": 0.4,
+			"arcade": 0.16,
+			"aventura": 0.36,
+			"cartas": 0.22,
+			"casuais": 0.16,
+			"corrida": 0.33,
+			"esportes": 0.27,
+			"estrategia": 0.32,
+			"logica": 0.28,
+			"luta": 0.25,
+			"minecraft": 0.23,
+			"outros": 0.01,
+			"rpg": 0.07,
+			"simulacao": 0.28,
+			"terror": 0.21,
+			"tiro": 0.28
+		},
+		"dailyPlayers": "25%",
+		"topGames": [
+			{ "name": "Free Fire", "image": "/games/free-fire.jpg" },
+			{ "name": "Fortnite", "image": "/games/fortnite.jpg" },
+			{ "name": "Candy Crush Saga", "image": "/games/candy-crush.jpg" }
+		],
+		"genderDistribution": {
+			"cisMan": 0.48,
+			"cisWoman": 0.38,
+			"others": 0.14
+		},
+		"motivation": {
+			"knowledge": 0.23,
+			"fantasy": 0.4,
+			"fun": 0.57,
+			"social": 0.32,
+			"game": 0.52
+		},
+		"routine": {
+			"salgadinhos": "44%",
+			"comida": "51%",
+			"doces": "48%",
+			"musica": "43%"
+		}
+	},
+	{
+		"name": "Full Hardcore",
+		"color": "#F2FF00",
+		"image": "/avatars/1.png",
+		"description": "Jogar é uma das minhas principais atividades",
+		"stars": {
+			"days": 3,
+			"hours": 5,
+			"gamer": 4,
+			"platform": 5,
+			"mobile": 3
+		},
+		"percentage": "12%",
+		"gameCategories": {
+			"acao": 0.55,
+			"arcade": 0.32,
+			"aventura": 0.55,
+			"cartas": 0.28,
+			"casuais": 0.26,
+			"corrida": 0.42,
+			"esportes": 0.33,
+			"estrategia": 0.57,
+			"logica": 0.35,
+			"luta": 0.41,
+			"minecraft": 0.29,
+			"outros": 0.01,
+			"rpg": 0.2,
+			"simulacao": 0.47,
+			"terror": 0.27,
+			"tiro": 0.55
+		},
+		"dailyPlayers": "52%",
+		"topGames": [
+			{ "name": "Free Fire", "image": "/games/free-fire.jpg" },
+			{ "name": "Call of Duty", "image": "/games/call-of-duty.png" },
+			{ "name": "Minecraft", "image": "/games/minecraft.jpg" }
+		],
+		"genderDistribution": {
+			"cisMan": 0.56,
+			"cisWoman": 0.37,
+			"others": 0.07
+		},
+		"motivation": {
+			"knowledge": 0.26,
+			"fantasy": 0.61,
+			"fun": 0.79,
+			"social": 0.3,
+			"game": 0.7
+		},
+		"routine": {
+			"salgadinhos": "59%",
+			"comida": "59%",
+			"doces": "45%",
+			"musica": "51%"
+		}
+	},
+	{
+		"name": "Hardcore Mobile",
+		"color": "#FF4040",
+		"image": "/avatars/2.png",
+		"description": "Jogar no celular ampliou meus horizontes dos games",
+		"stars": {
+			"days": 4,
+			"hours": 5,
+			"gamer": 2,
+			"platform": 0,
+			"mobile": 5
+		},
+		"percentage": "12%",
+		"gameCategories": {
+			"acao": 0.39,
+			"arcade": 0.18,
+			"aventura": 0.32,
+			"cartas": 0.34,
+			"casuais": 0.14,
+			"corrida": 0.16,
+			"esportes": 0.24,
+			"estrategia": 0.64,
+			"logica": 0.4,
+			"luta": 0.11,
+			"minecraft": 0.11,
+			"outros": 0.0,
+			"rpg": 0.05,
+			"simulacao": 0.2,
+			"terror": 0.07,
+			"tiro": 0.19
+		},
+		"dailyPlayers": "69%",
+		"topGames": [
+			{ "name": "Candy Crush Saga", "image": "/games/candy-crush.jpg" },
+			{ "name": "Free Fire", "image": "/games/free-fire.jpg" },
+			{ "name": "Call of Duty", "image": "/games/call-of-duty.png" }
+		],
+		"genderDistribution": {
+			"cisMan": 0.48,
+			"cisWoman": 0.43,
+			"others": 0.09
+		},
+		"motivation": {
+			"knowledge": 0.14,
+			"fantasy": 0.34,
+			"fun": 0.73,
+			"social": 0.1,
+			"game": 0.54
+		},
+		"routine": {
+			"salgadinhos": "48%",
+			"comida": "55%",
+			"doces": "43%",
+			"musica": "43%"
+		}
+	},
+	{
+		"name": "Gamer, Eu?",
+		"color": "#FF11A0",
+		"image": "/avatars/3.png",
+		"description": "Jogo bastante! Mas faço muitas outras coisas",
+		"stars": {
+			"days": 2,
+			"hours": 4,
+			"gamer": 1,
+			"platform": 3,
+			"mobile": 4
+		},
+		"percentage": "24%",
+		"gameCategories": {
+			"acao": 0.3,
+			"arcade": 0.17,
+			"aventura": 0.35,
+			"cartas": 0.27,
+			"casuais": 0.14,
+			"corrida": 0.28,
+			"esportes": 0.31,
+			"estrategia": 0.54,
+			"logica": 0.32,
+			"luta": 0.21,
+			"minecraft": 0.13,
+			"outros": 0.0,
+			"rpg": 0.07,
+			"simulacao": 0.2,
+			"terror": 0.08,
+			"tiro": 0.17
+		},
+		"dailyPlayers": "40%",
+		"topGames": [
+			{ "name": "Candy Crush Saga", "image": "/games/candy-crush.jpg" },
+			{ "name": "Free Fire", "image": "/games/free-fire.jpg" },
+			{ "name": "FIFA Soccer", "image": "/games/fifa-soccer.jpg" }
+		],
+		"genderDistribution": {
+			"cisMan": 0.43,
+			"cisWoman": 0.43,
+			"others": 0.14
+		},
+		"motivation": {
+			"knowledge": 0.22,
+			"fantasy": 0.32,
+			"fun": 0.71,
+			"social": 0.12,
+			"game": 0.51
+		},
+		"routine": {
+			"salgadinhos": "38%",
+			"comida": "45%",
+			"doces": "34%",
+			"musica": "48%"
+		}
+	},
+	{
+		"name": "Sugar Crush",
+		"color": "#11F1FF",
+		"image": "/avatars/4.png",
+		"description": "Adoro um joguinho no celular, desestresso e me divirto",
+		"stars": {
+			"days": 3,
+			"hours": 3,
+			"gamer": 1,
+			"platform": 1,
+			"mobile": 5
+		},
+		"percentage": "14%",
+		"gameCategories": {
+			"acao": 0.0,
+			"arcade": 0.14,
+			"aventura": 0.0,
+			"cartas": 0.32,
+			"casuais": 0.3,
+			"corrida": 0.09,
+			"esportes": 0.0,
+			"estrategia": 0.0,
+			"logica": 0.52,
+			"luta": 0.0,
+			"minecraft": 0.08,
+			"outros": 0.02,
+			"rpg": 0.0,
+			"simulacao": 0.19,
+			"terror": 0.01,
+			"tiro": 0.0
+		},
+		"dailyPlayers": "54%",
+		"topGames": [
+			{ "name": "Candy Crush Saga", "image": "/games/candy-crush.jpg" },
+			{ "name": "Royal Match", "image": "/games/royal-match.jpg" },
+			{ "name": "Hay Day", "image": "/games/hay-day.jpg" }
+		],
+		"genderDistribution": {
+			"cisMan": 0.17,
+			"cisWoman": 0.72,
+			"others": 0.11
+		},
+		"motivation": {
+			"knowledge": 0.1,
+			"fantasy": 0.21,
+			"fun": 0.7,
+			"social": 0.05,
+			"game": 0.32
+		},
+		"routine": {
+			"salgadinhos": "33%",
+			"comida": "43%",
+			"doces": "30%",
+			"musica": "31%"
+		}
+	},
+	{
+		"name": "Final de Semana",
+		"color": "#8400EC",
+		"image": "/avatars/5.png",
+		"description": "Me organizo para jogar e sou fiel aos bons jogos que conheço",
+		"stars": {
+			"days": 0,
+			"hours": 2,
+			"gamer": 1,
+			"platform": 3,
+			"mobile": 3
+		},
+		"percentage": "22%",
+		"gameCategories": {
+			"acao": 0.29,
+			"arcade": 0.09,
+			"aventura": 0.28,
+			"cartas": 0.23,
+			"casuais": 0.18,
+			"corrida": 0.26,
+			"esportes": 0.26,
+			"estrategia": 0.34,
+			"logica": 0.35,
+			"luta": 0.2,
+			"minecraft": 0.09,
+			"outros": 0.02,
+			"rpg": 0.04,
+			"simulacao": 0.16,
+			"terror": 0.06,
+			"tiro": 0.16
+		},
+		"dailyPlayers": "0%",
+		"topGames": [
+			{ "name": "Candy Crush Saga", "image": "/games/candy-crush.jpg" },
+			{ "name": "FIFA Soccer", "image": "/games/fifa-soccer.jpg" },
+			{ "name": "Free Fire", "image": "/games/free-fire.jpg" }
+		],
+		"genderDistribution": {
+			"cisMan": 0.37,
+			"cisWoman": 0.52,
+			"others": 0.11
+		},
+		"motivation": {
+			"knowledge": 0.17,
+			"fantasy": 0.27,
+			"fun": 0.67,
+			"social": 0.08,
+			"game": 0.38
+		},
+		"routine": {
+			"salgadinhos": "34%",
+			"comida": "42%",
+			"doces": "34%",
+			"musica": "35%"
+		}
+	}
+]

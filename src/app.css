@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--color-black: #1d1d1d;
+	--color-black-dark: #000000;
+	--color-white: #ffffff;
+	--color-gray-light: #efefef;
+	--color-gray-normal: #b8b8b8;
+	--color-gray-dark: #8a8a8a;
+	--color-gray-darker: #404040;
+	--color-red-light: #ffe6f0;
+	--color-red-normal: #fe016a;
+	--color-red-dark: #bf0150;
+	--color-red-darker: #590025;
+	--color-yellow-light: #feffe6;
+	--color-yellow-normal: #f2ff00;
+	--color-yellow-dark: #b6bf00;
+	--color-yellow-darker: #555900;
+	--color-yellow-dark-active: #6d7300;
+	--color-green-normal: #03ff59;
+	--color-green-dark: #02bf43;
+	--color-green-darker: #01591f;
+	--color-blue-light: #e6fdfc;
+	--color-blue-normal: #00eae5;
+	--color-blue-dark: #00b0ac;
+	--color-blue-dark-hover: #008c89;
+	--color-blue-darker: #005250;
+	--color-background-darkblue: #010033;
+	--color-background-darkgreen: #005250;
+	--color-pink-candy: #fbcaff;
+	--color-highlight-gold: #f1b72c;
+	--color-profile-green: #03ff59;
+	--color-profile-yellow: #f2ff00;
+	--color-profile-red: #ff4040;
+	--color-profile-pink: #ff11a0;
+	--color-profile-blue: #11f1ff;
+	--color-profile-purple: #8400ec;
+}
+
+* {
+	border: 0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	cursor: default;
+	font: inherit;
+	font-size: 100%;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+html {
+	display: table;
+	font-size: 16px !important;
+	height: 100%;
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: var(--color-white);
+	display: table-cell;
+	height: 100%;
+	position: absolute;
+	width: 100%;
+}

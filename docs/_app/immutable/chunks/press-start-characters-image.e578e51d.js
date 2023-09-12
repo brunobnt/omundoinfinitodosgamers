@@ -1,0 +1,1 @@
+const e=""+new URL("../assets/press-start-world-image.4ed3cbf1.png",import.meta.url).href,s=""+new URL("../assets/press-start-characters-image.c99cb148.png",import.meta.url).href;export{s as C,e as W};

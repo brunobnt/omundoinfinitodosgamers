@@ -1,0 +1,71 @@
+.align-left {
+	text-align: left;
+}
+
+.align-center {
+	text-align: center !important;
+}
+
+.weight-400 {
+	font-weight: 400 !important;
+}
+
+.weight-700 {
+	font-weight: 700 !important;
+}
+
+.weight-900 {
+	font-weight: 900 !important;
+}
+
+.color-black {
+	color: var(--color-black);
+}
+
+.color-white {
+	color: var(--color-white);
+}
+
+.color-red {
+	color: var(--color-red-normal);
+}
+
+.color-blue {
+	color: var(--color-blue-normal);
+}
+
+.color-yellow {
+	color: var(--color-yellow-normal);
+}
+
+.color-green {
+	color: var(--color-green-normal);
+}
+
+.color-gold {
+	color: var(--color-highlight-gold);
+}
+
+.color-blue-dark {
+	color: var(--color-blue-dark);
+}
+
+.color-yellow-dark {
+	color: var(--color-yellow-dark);
+}
+
+.color-red-darker {
+	color: var(--color-red-darker);
+}
+
+.color-blue-darker {
+	color: var(--color-blue-darker);
+}
+
+.color-yellow-darker {
+	color: var(--color-yellow-darker);
+}
+
+.color-green-darker {
+	color: var(--color-green-darker);
+}
