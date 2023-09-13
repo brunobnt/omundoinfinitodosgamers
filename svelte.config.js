@@ -8,7 +8,7 @@ const dev = process.argv.includes('dev');
 const config = {
 	kit: {
 		paths: {
-			base: dev ? '' : ''
+			base: dev ? '' : '/omundoinfinitodosgamers'
 		},
 		adapter: adapter({
 			// default options are shown. On some platforms
